@@ -23,7 +23,7 @@
     "skills": [
         {
             "sk_name": "Angular latest",
-            "imgPath": "img/tech-logo/angular-icon.png"
+            "imgPath": "dataSource/img/tech-logo/angular-icon.png"
         },
         {
             "sk_name": "JavaScript",
