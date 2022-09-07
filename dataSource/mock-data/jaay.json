@@ -23,7 +23,7 @@
     "skills": [
         {
             "sk_name": "Angular latest",
-            "imgPath": "./img/tech-logo/angular.png"
+            "imgPath": "https://github.com/suriyaJaay/mock-data-source/blob/main/dataSource/img/tech-logo/angular-icon.png"
         },
         {
             "sk_name": "JavaScript",
