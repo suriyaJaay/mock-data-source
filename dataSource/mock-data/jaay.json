@@ -1,0 +1,120 @@
+{
+    "a_personal": [
+        {
+            "firstName": "Jayasuriya",
+            "lastName": "Mohanraj",
+            "gender": "Male",
+            "dob": "23-July-1989",
+            "mobile": "(+91)-9791383617"
+        }
+    ],
+    "b_address": [
+        {
+            "buildingName": "#4, VSU Porsy",
+            "floorAndDoor": "1st floor, Door#: F2",
+            "street": "Oomathurai St, Panchayat Main Rd",
+            "locality": "Perungudi",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "pinCode": 600096
+        }
+    ],
+    "skills": [
+        {
+            "sk_name": "Angular latest",
+            "imgPath": "../img/tech-logo/angular.png"
+        },
+        {
+            "sk_name": "JavaScript",
+            "imgPath": "../img/tech-logo/javascript-programming-language-icon.png"
+        },
+        {
+            "sk_name": "ES6",
+            "imgPath": "../img/tech-logo"
+        },
+        {
+            "sk_name": "Typescript",
+            "imgPath": "../img/tech-logo/typescript-programming-language-icon.png"
+        },
+        {
+            "sk_name": "HTML 5",
+            "imgPath": "../img/tech-logo/html-icon.png"
+        },
+        {
+            "sk_name": "CSS 3",
+            "imgPath": "../img/tech-logo/html5-logo-31822.png"
+        },
+        {
+            "sk_name": "SCSS",
+            "imgPath": "../img/tech-logo/Sass_logo.png"
+        },
+        {
+            "sk_name": "Bootstrap 5",
+            "imgPath": "../img/tech-logo/bootstrap-5-logo-icon.png"
+        },
+        {
+            "sk_name": "Angular Material",
+            "imgPath": "../img/tech-logo/material.png"
+        },
+        {
+            "sk_name": "PrimeNg",
+            "imgPath": "../img/tech-logo/primeng-logo.webp"
+        },
+        {
+            "sk_name": "Tailwind (Beginner)",
+            "imgPath": "../img/tech-logo/tailwind-css-icon.png"
+        },
+        {
+            "sk_name": "Kendo UI",
+            "imgPath": "../img/tech-logo/Kendo_UI_vector_logo.png"
+        },
+        {
+            "sk_name": "Node.JS & ExpressJs (Beginner)",
+            "imgPath": "../img/tech-logo/node-js.png"
+        }
+    ],
+    "tools": [
+        {
+            "toolName": "TortoiseSVN",
+            "imgPath": "../img/tech-logo/Tsvn.PNG"
+        },
+        {
+            "toolName": "GitHub",
+            "imgPath": "../img/tech-logo/Octocat-min.png"
+        },
+        {
+            "toolName": "BitBucket",
+            "imgPath": "../img/tech-logo/bitbucket-logo-1.png"
+        },
+        {
+            "toolName": "JIRA",
+            "imgPath": "../img/tech-logo/jira.PNG"
+        },
+        {
+            "toolName": "Rally",
+            "imgPath": "../img/tech-logo/rally.PNG"
+        },
+        {
+            "toolName": "Confluence",
+            "imgPath": "../img/tech-logo/confluence.PNG"
+        }
+    ],
+    "domainExperince": [
+        {
+            "domainName": "Telecom"
+        },
+        {
+            "domainName": "Education"
+        },
+        {
+            "domainName": "MultiMedia"
+        },
+        {
+            "domainName": "Banking / Insurence / Finance"
+        },
+        {
+            "domainName": "Healthcare"
+        }
+    ]
+}
